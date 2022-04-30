@@ -1,0 +1,24 @@
+{
+  "name": "@gustavonovaes/blaze-double-roulette-crawler",
+  "version": "1.0.0",
+  "description": "A SPA crawler that watches Blaze Double roulette",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavonovaes/blaze-double-roulette-crawler.git"
+  },
+  "keywords": ["blaze", "double", "roulette", "crawler"],
+  "author": "Gustavo Novaes <gustavonovaes.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavonovaes/blaze-double-roulette-crawler/issues"
+  },
+  "homepage": "https://github.com/gustavonovaes/blaze-double-roulette-crawler#readme",
+  "dependencies": {
+    "puppeteer": "13.7",
+    "puppeteer-extra-plugin-stealth": "2.9"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  }
+}
